@@ -1,4 +1,5 @@
 # Hi, I'm Hicham Zakroum 👋
+![](https://komarev.com/ghpvc/?username=zakroum-hicham&style=flat-square)
 
 I'm a passionate **Data Scientist** and **AI enthusiast** working on exciting projects at the intersection of Machine Learning, Deep Learning, Computer Vision, and NLP.
 
