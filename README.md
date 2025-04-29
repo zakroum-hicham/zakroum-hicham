@@ -4,9 +4,6 @@
 I'm a passionate **Data Scientist** and **AI enthusiast** working on exciting projects at the intersection of Machine Learning, Deep Learning, Computer Vision, and NLP.
 
 - 🎓 Currently pursuing a **Master's degree in Data Science**.
-- 🔭 I’m looking for an **end-of-study internship** for 2025.
-- 👯 I’m looking to collaborate on **open-source AI and data science projects**.
-- 💬 Ask me about **machine learning, computer vision, NLP, and data scraping**.
 - 📫 How to reach me: **hicham.zakroum1@gmail.com**
   
 # ⚠️ Important Note:
